@@ -23,3 +23,6 @@ technoligies used:
  1. Python: The task explicitly asks for a "Python program," indicating that Python is the intended programming language for this project.
  2. Text-based Input/Output: The program will likely use Python's built-in functions like input() to get user input (numbers and operation choice) and print() to display the result.
  3. Basic Arithmetic Operations: The program will utilize Python's arithmetic operators (+, -, *, /) to perform the calculations.  In essence, the task involves using Python's core language features for basic input, output, and arithmetic operations.
+![Screenshot 2024-12-29 200334](https://github.com/user-attachments/assets/788361da-28ad-40a4-974f-c6b5d54b1a4d)
+
+    
